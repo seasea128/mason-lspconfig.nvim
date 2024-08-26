@@ -14,6 +14,7 @@ M.lspconfig_to_package = {
     ["ast_grep"] = "ast-grep",
     ["astro"] = "astro-language-server",
     ["autotools_ls"] = "autotools-language-server",
+    ["avalonia"] = "avalonia",
     ["awk_ls"] = "awk-language-server",
     ["azure_pipelines_ls"] = "azure-pipelines-language-server",
     ["basedpyright"] = "basedpyright",
